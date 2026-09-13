@@ -78,4 +78,7 @@ The layout is built mobile-first and scales cleanly across all device viewports:
 
 To test across breakpoints in Chrome/Firefox/Safari:
 1. Press `F12` or `Ctrl + Shift + I` (`Cmd + Option + I` on macOS) to open Developer Tools.
-2. Toggle the Device Toolbar (`Ctrl + 
+2. Toggle the Device Toolbar (`Ctrl + Shift + M` / `Cmd + Shift + M`).
+3. Select presets like iPhone 14, Pixel 7, iPad, or Responsive Desktop.
+
+---
